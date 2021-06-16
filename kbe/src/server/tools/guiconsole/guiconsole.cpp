@@ -15,6 +15,8 @@ bool g_isDestroyed = false;
 
 // CguiconsoleApp
 
+ServerConfig g_serverConfig;
+
 BEGIN_MESSAGE_MAP(CguiconsoleApp, CWinAppEx)
 	ON_COMMAND(ID_HELP, &CWinApp::OnHelp)
 END_MESSAGE_MAP()

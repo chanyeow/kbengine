@@ -20,6 +20,7 @@
 #include "helper/debug_helper.h"
 #include "xml/xml.h"
 #include "common/smartpointer.h"
+#include "server/serverconfig.h"
 
 // CguiconsoleApp:
 // See guiconsole.cpp for the implementation of this class
